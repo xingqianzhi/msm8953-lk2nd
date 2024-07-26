@@ -11,6 +11,7 @@ and then loaded by lk2nd.
 
 ## Supported SoCs
 - MSM8952 (MSM8940)
+- MSM8917
 - MSM8953 (SDM450,SDM625,SDM626)
 - SDM632
 
