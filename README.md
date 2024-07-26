@@ -31,6 +31,7 @@ and then loaded by lk2nd.
 - Xiaomi Redmi 4X - santoni
 - Xiaomi Redmi Note 4X Snapdragon - mido
 - Xiaomi Redmi 4 Prime - markw
+- Xiaomi Redmi 4a - rolex
 - Xiaomi Redmi 5 - rosy
 - Xiaomi Redmi Note 5 / 5 Plus Snapdragon - vince
 - Xiaomi Redmi S2 / Y2 - ysl
